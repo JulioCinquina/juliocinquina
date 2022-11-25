@@ -11,6 +11,6 @@
 
 ### Languages and tools:
 
-[![Logos of HTML, CSS, JavaScript, Git, GitHub, VS Code, and Markdown. Link to skillicons.dev](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,md)](https://skillicons.dev)
+[![Logos of HTML, CSS, JavaScript, Regular Expressions, Git, GitHub, VS Code, and Markdown. Link to skillicons.dev](https://skillicons.dev/icons?i=html,css,js,regex,git,github,vscode,md)](https://skillicons.dev)
 
 [![My top languages. Link to Anurag Hazra's 'github-readme-stats' repository](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocinquina&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
