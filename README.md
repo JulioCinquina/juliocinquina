@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Julio</h1>
-<h3 align="center">An upcoming front-end developer from São Paulo, Brazil 🇧🇷</h3>
 
 - 🌐 I'm a **professional translator** (English/Spanish into Brazilian Portuguese)
 - 🌱 I'm currently learning **HTML, CSS and JavaScript**
